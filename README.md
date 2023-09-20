@@ -3,4 +3,4 @@
 
 #### 🛠️&nbsp; Brand Assets for Partners
 We’ve hosted a PDF version of our UX Guidelines for **CLEAR _Verified_** Partners - along with logos for use in Partner applications.
-- [Partner UX Guidelines]([https://github.com/clearverified/brand-assets-for-partners/test](https://github.com/clearverified/brand-assets-for-partners/blob/ff8ac912f77799ba27b20a0e3d331b78e955032a/CLEAR-Verified-Partner-UX-Guidelines.pdf)https://github.com/clearverified/brand-assets-for-partners/blob/ff8ac912f77799ba27b20a0e3d331b78e955032a/CLEAR-Verified-Partner-UX-Guidelines.pdf)
+- [Partner UX Guidelines](https://github.com/clearverified/brand-assets-for-partners/blob/ff8ac912f77799ba27b20a0e3d331b78e955032a/CLEAR-Verified-Partner-UX-Guidelines.pdf)
