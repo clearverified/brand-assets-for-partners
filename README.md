@@ -5,7 +5,7 @@
 We’ve hosted a PDF version of our UX Guidelines for **CLEAR _Verified_** Partners - along with logos for use in Partner applications.
 - [Partner UX Guidelines](https://github.com/clearverified/brand-assets-for-partners/blob/ff8ac912f77799ba27b20a0e3d331b78e955032a/CLEAR-Verified-Partner-UX-Guidelines.pdf)
   
-##### Logos
+📷 **Logos**
 - [Halo Logo Midnight (PNG)](https://github.com/clearverified/brand-assets-for-partners/blob/3cbc3761ff7724d999fc5030de6d6de0a723b03d/CLEAR_Logo_Halo_Midnight_RGB_DIGITAL.png)
 - [Halo Logo Midnight (SVG)](https://github.com/clearverified/brand-assets-for-partners/blob/3cbc3761ff7724d999fc5030de6d6de0a723b03d/CLEAR_Logo_Halo_K_RGB_DIGITAL.svg)
 - [Halo Logo White (PNG)](https://github.com/clearverified/brand-assets-for-partners/blob/3cbc3761ff7724d999fc5030de6d6de0a723b03d/CLEAR_Logo_Halo_KO_RGB_DIGITAL.png)
